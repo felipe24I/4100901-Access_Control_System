@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/Universidad Nacional de Colombia/Sexto semestre/Estructuras computacionales/Taller 1/4100901-Access_Control_System/build/debug/CMakeFiles/4100901-Access_Control_System.dir
+C:/Users/ASUS/Documents/Universidad Nacional de Colombia/Sexto semestre/Estructuras computacionales/Taller 1/4100901-Access_Control_System/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/Universidad Nacional de Colombia/Sexto semestre/Estructuras computacionales/Taller 1/4100901-Access_Control_System/build/debug/CMakeFiles/rebuild_cache.dir
